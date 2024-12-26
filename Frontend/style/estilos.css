@@ -1,0 +1,79 @@
+body {
+    background: linear-gradient(rgb(43, 125, 206), rgb(255, 255, 255));
+    background-size: cover;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #0077be;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin: 20px 10px;
+    padding: 10px 25px;
+}
+
+.table {
+    margin-top: 40px;
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+label {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.btn-primary {
+    background-color: #0077be;
+    border-color: #0077be;
+}
+
+.btn-primary:hover {
+    background-color: #005c91;
+    border-color: #005c91;
+}
+
+.table thead th {
+    background-color: #0077be;
+    color: white;
+    border-bottom: none;
+}
+
+.table tbody tr:hover {
+    background-color: #037cf6;
+}
+.imagen-container {
+    overflow: hidden;
+}
+
+.imagen-zoom {
+    transition: transform 0.2s;
+}
+
+.imagen-zoom:hover {
+    transform: scale(1.2);
+} 
+.card-hover {
+    transition: transform 0.3s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": "024e",
+      "nombre": "Atanado",
+      "tipo": "Vegetal",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Ardilla",
+      "imagen": "https://dc621.4shared.com/img/u2kbN3EEge/s24/193ff7aef38/22_online?async&rand=0.3928085592214947"
+    },
+    {
+      "id": "9cf4",
+      "nombre": "Atanado",
+      "tipo": "Vegetal",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Suela",
+      "imagen": "https://dc621.4shared.com/img/ThTSBszlge/s24/193fffcdcf0/20_online?async&rand=0.8755936101203987"
+    },
+    {
+      "id": "9eaa",
+      "nombre": "Trenzado",
+      "tipo": "Grabados",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Caoba",
+      "imagen": "https://dc700.4shared.com/img/3GOhR-Fpge/s24/19400226a38/27_online?async&rand=0.41652651485568537"
+    },
+    {
+      "id": "9ac0",
+      "nombre": "Trenzado",
+      "tipo": "Grabados",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Suela331",
+      "imagen": "https://dc700.4shared.com/img/EOK4SnS_jq/s24/1940022b088/32_online?async&rand=0.10203688070785422"
+    },
+    {
+      "id": "f5ff",
+      "nombre": "Trenzado",
+      "tipo": "Grabados",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Negro",
+      "imagen": "https://dc700.4shared.com/img/6FtgyPV6jq/s24/1940022d798/34_online?async&rand=0.19025265540025948"
+    },
+    {
+      "id": "da17",
+      "nombre": "Trenzado",
+      "tipo": "Grabados",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Duna",
+      "imagen": "https://dc726.4shared.com/img/JOeFr114ku/s24/1940026e2c0/31_online?async&rand=0.9457689463690495"
+    },
+    {
+      "id": "99e1",
+      "nombre": "Trenzado",
+      "tipo": "Grabados",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Bordo",
+      "imagen": "https://dc577.4shared.com/img/YwHSumPPku/s24/194002859c0/35_online?async&rand=0.885512831223229"
+    },
+    {
+      "id": "ff22",
+      "nombre": "Charol Croco",
+      "tipo": "Grabado chico",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Negro",
+      "imagen": "https://dc577.4shared.com/img/HfNIMTg-ku/s24/194002ade48/47_online?async&rand=0.6349424507003913"
+    },
+    {
+      "nombre": "Charol ",
+      "tipo": "Arrugado",
+      "calidad": "Primera, Mixta, Original y Segunda",
+      "color": "Negro",
+      "imagen": "https://dc577.4shared.com/img/yi-wbZZuku/s24/19400313f18/49_online?async&rand=0.2057153918009207",
+      "id": "a4fe"
+    }
+  ]
+}
